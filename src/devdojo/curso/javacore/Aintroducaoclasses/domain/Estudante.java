@@ -1,4 +1,4 @@
-package devdojo.curso.orientacaoaobjetos.domain;
+package devdojo.curso.javacore.Aintroducaoclasses.domain;
 
 public class Estudante {
     public int age;

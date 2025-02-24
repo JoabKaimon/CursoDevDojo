@@ -2,13 +2,13 @@ package devdojo.curso.intro;
 
 public class Aula05EstruturasCondicionais {
     public static void main(String[] args) {
-       /* int age = 21;
+        int age = 21;
         boolean isAuthorizedToBuyDrink = age >= 18;
         if(isAuthorizedToBuyDrink){
             System.out.println("Autorizado comprar bebida!");
         }else{
             System.out.println("Não Autorizado comprar bebida!");
-        } */
+        }
 
            /* int age = 17;
             String category;

@@ -1,6 +1,6 @@
-package devdojo.curso.orientacaoaobjetos.test;
+package devdojo.curso.javacore.Aintroducaoclasses.test;
 
-import devdojo.curso.orientacaoaobjetos.domain.Estudante;
+import devdojo.curso.javacore.Aintroducaoclasses.domain.Estudante;
 
 public class EstudanteTest01 {
     public static void main(String[] args) {

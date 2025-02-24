@@ -15,7 +15,7 @@ public class Aula02TiposPrimitivos {
         boolean verdadeiro = true;
         boolean falso = false;
         String largeText = "Goku";
-        //var nome2 = "Vegeta"; utilizado a partir do jdk10
+        //var nome2 = "Vegeta"; (utilizado a partir do jdk10)
 
         System.out.println("A idade do pai e: "+fatherAge+" anos.");
         System.out.println("Vou viver mais que vovo: " +verdadeiro);
@@ -28,5 +28,7 @@ public class Aula02TiposPrimitivos {
         System.out.println(laggerThanByte);
     }
 }
+
+
 
 
